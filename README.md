@@ -10,7 +10,8 @@ ___
 
 ### 💻 Technologies And Tools I'm Working With
 * Python
-* FlaskJS
+* Flask
+* NumPy, SciPy, PyTorch, TensorFlow, MatplotLib
 * C/C++
 * Parallel Computing With OpenMP & MPI
 * Local HPC Cluster (https://hpc.lums.edu.pk/)
