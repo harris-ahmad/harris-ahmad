@@ -3,7 +3,7 @@
 
 ### 🤓 A Little Something About Me
 
-I am a 20-year-old geek who enjoys getting his hands on new stuff and goes bonkers in handling too many responsibilties all at once. I mostly enjoy spicy food that I regret afterwards, and I certainly DO NOT have a sweet tooth.
+I am a 20-year-old geek who enjoys getting his hands on new stuff and goes bonkers in handling too many responsibilties all at once, but still manages to pull them off effortlessly. I mostly enjoy spicy food that I regret afterwards, and I certainly DO NOT have a sweet tooth.
 I am a CS junior at LUMS (Lahore University of Management Sciences), and my research interests lie in Networks and Distributed Systems. 
 
 ___
