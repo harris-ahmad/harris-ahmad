@@ -24,3 +24,4 @@ ___
 * MySQL
 * MATLAB
 * Systems Programming with C
+* Distributed & Concurrent Computing with Go Language
