@@ -25,3 +25,13 @@ ___
 * MATLAB
 * Systems Programming with C
 * Distributed & Concurrent Computing with Go Language
+
+### Currently Engaged In
+* Dynamic Programming in Python - a course on Educative
+
+### Courses I'm Taking This Fall:
+* CS 310 - Algorithms
+* CS 334 - Principles of Data Science
+* CS 340 - Databases
+* CS 370 - Operating Systems
+* CS 582 - Distributed Systems
